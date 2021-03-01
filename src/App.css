@@ -1,0 +1,30 @@
+* {
+  background-color: lightblue;
+}
+
+.Tasks {
+  background-color: white;
+}
+
+.UnHappy {
+  border: 5px solid teal;
+  text-align: center;
+
+  margin: auto;
+  border-radius: 10px;
+  background-color: white;
+  margin-top: 6%;
+  color: rgb(255, 109, 109);
+  height: 500px;
+  width: 700px;
+  box-shadow: 3px 3px 10px grey;
+}
+.UnHappy h1 {
+  background: white;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: left;
+  margin-left: 30px;
+  text-shadow: 2px 2px 3px red;
+  margin-bottom: 40px;
+}
